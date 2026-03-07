@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pyyaml
+httpx
+psutil
+cryptography
+pydantic
+pyaudio
+pytest
+pytest-asyncio
+# Optional
+# chromadb
+# sentence-transformers
+# openai
+# litellm
+# faster-whisper

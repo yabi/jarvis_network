@@ -1,0 +1,124 @@
+2026-03-07 03:18:05,646 - __main__ - WARNING - Mock mode: Using simulated components
+2026-03-07 03:18:05,649 - __main__ - INFO - Jarvis Service initialized
+2026-03-07 03:18:05,653 - __main__ - INFO - ==================================================
+2026-03-07 03:18:05,653 - __main__ - INFO - JARVIS SYSTEM ACTIVATING
+2026-03-07 03:18:05,653 - __main__ - INFO - ==================================================
+2026-03-07 03:18:05,654 - __main__ - INFO - Starting API server on port 5000
+2026-03-07 03:18:05,656 - __main__ - INFO - API server thread started
+2026-03-07 03:18:05,656 - __main__ - INFO - 🚀 Jarvis Service ACTIVE
+2026-03-07 03:18:05,657 - __main__ - INFO - Starting monitoring loop
+2026-03-07 03:18:05,657 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 0s
+2026-03-07 03:18:05,665 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.186:5000
+2026-03-07 03:18:05,665 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-03-07 03:19:05,685 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 60s
+2026-03-07 03:19:45,921 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2026 03:19:45] "GET / HTTP/1.1" 200 -
+2026-03-07 03:19:46,509 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2026 03:19:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-03-07 03:20:05,734 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 120s
+2026-03-07 03:21:05,774 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 180s
+2026-03-07 03:22:05,834 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 240s
+2026-03-07 03:23:05,888 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 300s
+2026-03-07 03:24:05,939 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 360s
+2026-03-07 03:25:05,969 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 420s
+2026-03-07 03:26:06,014 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 480s
+2026-03-07 03:26:59,905 - __main__ - INFO - Shutting down gracefully...
+2026-03-07 03:26:59,905 - __main__ - INFO - Jarvis Service stopped
+2026-03-07 03:30:06,039 - __main__ - INFO - Successfully imported real Jarvis components
+2026-03-07 03:43:30,121 - __main__ - INFO - Successfully imported real Jarvis components
+2026-03-07 03:43:30,122 - Reasoning.llm_orchestrator - INFO - LLM Orchestrator initialized using ollama
+2026-03-07 03:43:30,122 - __main__ - INFO - Jarvis Service initialized
+2026-03-07 03:43:30,124 - __main__ - INFO - ==================================================
+2026-03-07 03:43:30,124 - __main__ - INFO - JARVIS SYSTEM ACTIVATING
+2026-03-07 03:43:30,125 - __main__ - INFO - ==================================================
+2026-03-07 03:43:30,125 - __main__ - INFO - Starting API server on port 5000
+2026-03-07 03:43:30,127 - __main__ - INFO - API server thread started
+2026-03-07 03:43:30,127 - __main__ - ERROR - Fatal error: 'JarvisService' object has no attribute 'state'
+2026-03-07 03:47:28,566 - __main__ - INFO - Successfully imported real Jarvis components
+2026-03-07 03:47:28,568 - Reasoning.llm_orchestrator - INFO - LLM Orchestrator initialized using ollama
+2026-03-07 03:47:28,568 - __main__ - INFO - Jarvis Service initialized
+2026-03-07 03:47:28,569 - __main__ - INFO - ==================================================
+2026-03-07 03:47:28,569 - __main__ - INFO - JARVIS SYSTEM ACTIVATING
+2026-03-07 03:47:28,569 - __main__ - INFO - ==================================================
+2026-03-07 03:47:28,570 - __main__ - INFO - Starting API server on port 5000
+2026-03-07 03:47:28,570 - __main__ - INFO - API server thread started
+2026-03-07 03:47:28,571 - __main__ - INFO - 🚀 Jarvis Service ACTIVE with Ollama LLM
+2026-03-07 03:47:28,572 - __main__ - INFO - Starting monitoring loop
+2026-03-07 03:47:28,572 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 0s
+2026-03-07 03:47:28,577 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.186:5000
+2026-03-07 03:47:28,577 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-03-07 03:47:38,110 - werkzeug - INFO - 127.0.0.1 - - [07/Mar/2026 03:47:38] "GET / HTTP/1.1" 200 -
+2026-03-07 03:48:28,632 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 60s
+2026-03-07 03:49:28,689 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 120s
+2026-03-07 03:50:28,739 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 180s
+2026-03-07 03:51:28,746 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 240s
+2026-03-07 03:52:28,751 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 300s
+2026-03-07 03:53:28,790 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 360s
+2026-03-07 03:54:28,839 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 420s
+2026-03-07 03:55:28,876 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 480s
+2026-03-07 03:56:28,936 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 540s
+2026-03-07 03:57:28,995 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 600s
+2026-03-07 03:58:29,039 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 660s
+2026-03-07 03:59:29,064 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 720s
+2026-03-07 04:00:29,124 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 781s
+2026-03-07 04:01:29,172 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 841s
+2026-03-07 04:02:29,233 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 901s
+2026-03-07 04:03:29,282 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 961s
+2026-03-07 04:04:29,328 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 1021s
+2026-03-07 04:05:29,365 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 1081s
+2026-03-07 04:06:29,422 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 1141s
+2026-03-07 04:07:29,478 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 1201s
+2026-03-07 04:08:29,493 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 1261s
+2026-03-07 04:09:29,546 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 1321s
+2026-03-07 04:10:29,603 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 1381s
+2026-03-07 04:11:29,664 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 1441s
+2026-03-07 04:12:29,700 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 1501s
+2026-03-07 04:13:29,763 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 1561s
+2026-03-07 04:14:29,812 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 1621s
+2026-03-07 04:15:29,873 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 1681s
+2026-03-07 04:16:29,898 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 1741s
+2026-03-07 04:17:29,959 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 1801s
+2026-03-07 04:18:30,014 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 1861s
+2026-03-07 04:19:30,077 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 1922s
+2026-03-07 04:20:30,116 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 1982s
+2026-03-07 04:21:30,166 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 2042s
+2026-03-07 04:22:30,169 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 2102s
+2026-03-07 04:23:30,226 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 2162s
+2026-03-07 04:24:30,267 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 2222s
+2026-03-07 04:25:30,326 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 2282s
+2026-03-07 04:26:30,382 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 2342s
+2026-03-07 04:27:30,414 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 2402s
+2026-03-07 04:28:30,466 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 2462s
+2026-03-07 04:29:30,515 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 2522s
+2026-03-07 04:30:30,574 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 2582s
+2026-03-07 04:31:30,634 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 2642s
+2026-03-07 04:32:30,691 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 2702s
+2026-03-07 04:33:30,751 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 2762s
+2026-03-07 04:34:30,812 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 2822s
+2026-03-07 04:35:30,848 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 2882s
+2026-03-07 04:36:30,902 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 2942s
+2026-03-07 04:37:30,926 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 3002s
+2026-03-07 04:38:30,987 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 3062s
+2026-03-07 04:39:31,046 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 3122s
+2026-03-07 04:40:31,107 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 3183s
+2026-03-07 04:41:31,162 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 3243s
+2026-03-07 04:42:31,180 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 3303s
+2026-03-07 04:43:31,239 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 3363s
+2026-03-07 04:44:31,278 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 3423s
+2026-03-07 04:45:31,322 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 3483s
+2026-03-07 04:46:31,358 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 3543s
+2026-03-07 04:47:31,406 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 3603s
+2026-03-07 04:48:31,466 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 3663s
+2026-03-07 04:49:31,504 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 3723s
+2026-03-07 04:50:31,562 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 3783s
+2026-03-07 04:51:31,623 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 3843s
+2026-03-07 04:52:31,673 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 3903s
+2026-03-07 04:53:31,727 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 3963s
+2026-03-07 04:54:31,775 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 4023s
+2026-03-07 04:55:31,817 - __main__ - INFO - Status: Running | Requests: 0 | Uptime: 4083s
+2026-03-07 04:56:16,306 - __main__ - INFO - Shutting down gracefully...
+2026-03-07 04:56:16,313 - __main__ - INFO - Jarvis Service stopped
